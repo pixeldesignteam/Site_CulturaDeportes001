@@ -1,0 +1,6 @@
+Checar descarga de documentos Exel, se pone dos veces la extención
+
+Checar los mensajes de scrip para no elminar directamente
+
+
+Cambiar idAlumno por id es por eso que no funciona modificar
